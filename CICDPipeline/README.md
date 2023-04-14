@@ -19,8 +19,9 @@
 
 ![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/success.png)
 
-#### -> Docker Build
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/docker-build.png)
+#### -> Docker Success
+
+![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/docker-succes.png)
 
 
 #### -> Deployed on Dockerhub
