@@ -11,14 +11,6 @@
 
 ![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/Dokerfile.png)
 
-#### -> Github Repo
-
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/repo.png)
-
-#### -> Maven.yml file
-
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/maven.yml.png)
-
 #### -> Building
 
 ![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/build-cicdpipeline.png)
@@ -30,9 +22,6 @@
 #### -> Docker Build
 ![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/docker-build.png)
 
-#### -> Docker Success
-
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/docker-succes.png)
 
 #### -> Deployed on Dockerhub
 
