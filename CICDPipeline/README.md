@@ -9,7 +9,7 @@
 
 #### -> Docker File
 
-![C:\Users\shash\Desktop]
+![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/Dokerfile.png)
 
 #### -> Building
 
