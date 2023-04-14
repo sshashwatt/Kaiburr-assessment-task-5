@@ -13,7 +13,7 @@
 
 #### -> Building
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/build-cicdpipeline.png)
+![build-cicdpipeline](https://user-images.githubusercontent.com/92125458/232106604-96fd2f6e-f5b6-4fdc-87d3-bb7857ec6ac8.png)
 
 #### -> Docker Success
 
