@@ -15,10 +15,6 @@
 
 ![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/build-cicdpipeline.png)
 
-#### -> Build Success
-
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/success.png)
-
 #### -> Docker Success
 
 ![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/docker-succes.png)
